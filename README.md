@@ -1,4 +1,5 @@
 # TIL
-Today I Learned and realizedToday I Learned and realized
-I have come to realize that I am a lifelong student of the world
+What I learned today, by the gentle touch of grace, is simple yet powerful: 
+I am a lifelong student of the world
+
 
