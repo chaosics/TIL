@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-
 # TIL
-Today I Learned..
+Today I Learned and realizedToday I Learned and realized
+I have come to realize that I am a lifelong student of the world
 
-
-
-
-
-
-=======
-# TIL
->>>>>>> 55bb2e02c2e88336ee20b9d5988abb08344da36d
