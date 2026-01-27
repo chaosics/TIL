@@ -8,3 +8,6 @@ It's already been five days since I started using Git. All three of my laptops n
 ## Today's YEDO
 Step by step
 
+##  WHAT SOME MORE?
+Just curious. That's it
+
